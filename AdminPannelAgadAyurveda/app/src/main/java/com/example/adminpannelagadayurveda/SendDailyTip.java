@@ -168,7 +168,7 @@ public class SendDailyTip extends AppCompatActivity {
                 public Map<String, String> getHeaders() throws AuthFailureError {
                     Map<String,String> header = new HashMap<>();
                     header.put("content-type","application/json");
-                    header.put("authorization","key=AAAAmGI-pcw:APA91bHFLVM4aaOczx9YPisfsROxflEkhXJ7Yt1iJ32XHkv0LbPBG1vQizrxjjl30o1uzhTQZTFRK-p1IjeK96TNiCdrEloIDM216hb1rPsakVaxlmBjPZ8xfhhBvIBLduKbbk87MbB_");
+                    header.put("authorization","key=Insert_your_Key_Here");
                     return header;
                 }
             };
