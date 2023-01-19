@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdminPannel Agad Ayurveda</string>
+    <string name="adminpannel">Admin Pannel</string>
+    <string name="Agad_Ayurveda"> Agad Ayurveda</string>
+
+    <string name="Send_daily_tip">Send Daily Tip</string>
+    <string name="Add_Sub_Category">Add Sub Category</string>
+    <string name="Add_Tip">Add Tip</string>
+    <string name="Notification_Sent">Notification Sent</string>
+    <string name="link">https://digitalaadmi.com/agadayurveda/</string>
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "654483301836",
+    "project_id": "agad-ayurveda",
+    "storage_bucket": "agad-ayurveda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654483301836:android:4eeeedeab7297cfeb6e969",
+        "android_client_info": {
+          "package_name": "com.example.adminpannelagadayurveda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654483301836-gn08s877q5ce8v0c5cv5vq6s9hha169p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-hF7FgvDwltgGToOpcu-6XtkUV3qoFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654483301836-gn08s877q5ce8v0c5cv5vq6s9hha169p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654483301836:android:1c1db38d172dfe8db6e969",
+        "android_client_info": {
+          "package_name": "com.example.arogyaayurveda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654483301836-gn08s877q5ce8v0c5cv5vq6s9hha169p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-hF7FgvDwltgGToOpcu-6XtkUV3qoFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654483301836-gn08s877q5ce8v0c5cv5vq6s9hha169p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

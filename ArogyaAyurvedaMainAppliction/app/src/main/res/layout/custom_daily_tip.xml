@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/category_item"
+    android:layout_margin="5dp"
+    android:baselineAligned="false"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:orientation="vertical"
+    android:background="@drawable/round_design_white"
+    >
+
+    <TextView
+        android:id="@+id/title_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="asdal  "
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:layout_gravity="center_vertical"
+        android:textColor="@color/red"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="asdal daslkdna kjadjas klnadlka akjndklajs klnadnl aldknasld "
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:layout_gravity="center_vertical"
+        android:textColor="#000"
+        android:textSize="16dp" />
+
+
+
+
+
+
+</LinearLayout>
